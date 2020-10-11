@@ -1,0 +1,8 @@
+Libraries Used
+
+import numpy as np 
+from pandas_datareader import data as wb
+import pandas as pd
+from matplotlib import pyplot as plt
+from scipy.stats import norm
+from datetime import date
